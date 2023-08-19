@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.cc.gatech.edu'>College of Computing</a> at <a href='https://www.gatech.edu/'>Georgia Tech</a>.
 
 profile:
   align: right
@@ -14,17 +14,22 @@ profile:
     <p>Atlanta, GA 30332-0765</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hyesoon Kim is a Professor in the School of Computing at Georgia Tech. She also serves as a Director for [the Center for Research into Novel Computing Hierarchies (CRNCH)](https://crnch.gatech.edu/). 
-She received a Ph.D. in Electrical Engineering and Computer Science from [University of Texas at Austin, Austin, Texas](https://www.utexas.edu/).
+I'm a Professor in the [College of Computing](https://www.cc.gatech.edu) at [Georgia Tech](https://www.gatech.edu/) and work with a bunch of a great stduents in my group [HPArch](https://sites.gatech.edu/hparch/).
+I also serve as a Director for [the Center for Research into Novel Computing Hierarchies (CRNCH)](https://crnch.gatech.edu/). 
+I received a Ph.D. in Electrical Engineering and Computer Science from [University of Texas at Austin, Austin, Texas](https://www.utexas.edu/).
 
 
- <!-- a M.S.E in Electrical Engineering from Princeton University (2009), and a B.Tech in Electrical Engineering from the Indian Institute of Technology (IIT) Delhi (2007).  -->
-<!-- Before joining Georgia Tech in 2015, Dr. Krishna spent a year as a researcher at the VSSAD group at Intel, Massachusetts. -->
+My research interests lie in the GPU Architecture, Heterogenous Computing Systems (CPU+GPU), 
+Hardware Security, RISC-V Extensions for Open-source GPUs, Database systems. 
+<!-- Tools to help programming and improving performance and energy efficiency of heterogeneous architectures are the main research topcis.  -->
+Please visit [this page](https://sites.gatech.edu/hparch/research/) for more comprehensive information about my research and 
+[recent publications](https://sites.gatech.edu/hparch/publication/). 
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
