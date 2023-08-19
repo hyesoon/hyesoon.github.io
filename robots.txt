@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hyesoon.github.io/al-folio/sitemap.xml
+Sitemap: https://hyesoon.github.io/sitemap.xml
