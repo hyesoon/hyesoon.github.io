@@ -28,7 +28,7 @@ My research interests lie in the GPU Architecture, Heterogenous Computing System
 Hardware Security, RISC-V Extensions for Open-source GPUs, Database systems. 
 <!-- Tools to help programming and improving performance and energy efficiency of heterogeneous architectures are the main research topcis.  -->
 Please visit [this page](https://sites.gatech.edu/hparch/research/) for more comprehensive information about my research and 
-[recent publications](https://sites.gatech.edu/hparch/publication/)
+[recent publications](https://sites.gatech.edu/hparch/publication/).
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
