@@ -27,8 +27,11 @@ $(document).ready(function() {
   cssLink.type  = "text/css";
 
   let theme = localStorage.getItem("theme");
+  theme="dark";
+  // document.write(theme);
   if (theme == null || theme == "null") {
-    const userPref = window.matchMedia;
+    // const userPref = window.matchMedia;
+    const userPref = "dark";
     if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
       theme = "dark";
     }
