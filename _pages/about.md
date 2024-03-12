@@ -19,13 +19,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Professor in the [College of Computing](https://www.cc.gatech.edu) at [Georgia Tech](https://www.gatech.edu/) and work with a bunch of a great stduents in my group [HPArch](https://sites.gatech.edu/hparch/).
-I also serve as a Director for [the Center for Research into Novel Computing Hierarchies (CRNCH)](https://crnch.gatech.edu/). 
-I received a Ph.D. in Electrical Engineering and Computer Science from [University of Texas at Austin, Austin, Texas](https://www.utexas.edu/).
+Hyesoon Kim is a Professor in the [College of Computing](https://www.cc.gatech.edu) at [Georgia Tech](https://www.gatech.edu/) and work with a bunch of a great stduents in her group [HPArch](https://sites.gatech.edu/hparch/).
+She also serve as a co-director of [the Center for Research into Novel Computing Hierarchies (CRNCH)](https://crnch.gatech.edu/). 
+She received a Ph.D. in Electrical Engineering and Computer Science from [University of Texas at Austin, Austin, Texas](https://www.utexas.edu/).
 
 
-My research interests lie in the GPU Architecture, Heterogenous Computing Systems (CPU+GPU), 
-Hardware Security, RISC-V Extensions for Open-source GPUs, Database systems. 
+Her research areas include the intersection of computer architectures and compilers, with an emphasis on heterogeneous architectures such as GPUs and near-data processing. She is a recipient of the NSF Career Award and is a member of the MICRO/HPCA Hall of Fame. She is the chair of IEEE TCuARCH and an associate editor of Transactions on Architecture and Code Optimization. She is also an IEEE fellow. 
+
 <!-- Tools to help programming and improving performance and energy efficiency of heterogeneous architectures are the main research topcis.  -->
 Please visit [this page](https://sites.gatech.edu/hparch/research/) for more comprehensive information about my research and 
 [recent publications](https://sites.gatech.edu/hparch/publication/).
