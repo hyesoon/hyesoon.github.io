@@ -8,9 +8,7 @@ profile:
   align: right
   image: hyesoon_profile.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>266 Ferst Drive, KACB 2344, Atlanta, GA 30332-0765</p>
-    <p>(404) 385-3303</p>
+  address: >    
     <p>hyesoon at cc.gatech.edu</p>
 
 news: false  # includes a list of news items
@@ -19,10 +17,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+#### **Contact Information** 
+- Office: 266 Ferst Drive, KACB 2344, Atlanta, GA 30332-0765
+- Phone: (404) 385-3303
+- Email: hyesoon at cc.gatech.edu
+
+*** 
+
+#### **Biography** 
 Dr. Hyesoon Kim is a professor at the School of Computer Science,  College of Computing at Georgia Tech and leads the [HPArch research group](https://sites.gatech.edu/hparch/). She is co-director of the Center for Research into Novel Computing Hierarchies (CRNCH). She received her Ph.D. in Electrical Engineering and Computer Science from the University of Texas at Austin. Her research focuses on the intersection of computer architecture, compilers, and runtime systems, with a particular emphasis on heterogeneous architectures, such as GPUs and near-data processing.
 
 
 <!-- Tools to help programming and improving performance and energy efficiency of heterogeneous architectures are the main research topcis.  -->
+*** 
 
 #### **Research Interests**
 -  Computer Architecture
@@ -31,12 +38,14 @@ Dr. Hyesoon Kim is a professor at the School of Computer Science,  College of Co
 - GPUs and Heterogeneous Architectures 
 - Hardware security 
 
+*** 
 
 #### **Active Open Source Projects**
 
 - [Macsim](https://github.com/gthparch/macsim): A heterogeneous architecture simulator.
 - [Vortex](https://vortex.cc.gatech.edu/): An open-source GPU hardware platform.
 
+***
 
 #### **Teaching**
 
@@ -52,6 +61,7 @@ Dr. Hyesoon Kim is a professor at the School of Computer Science,  College of Co
 - CS 2200: Systems and Networks
 - CS 4903/CS 8803: Design and Programming of Game Consoles
 
+*** 
 
 #### **Publications**
 
@@ -62,11 +72,14 @@ For a comprehensive list of Dr. Kim's publications, please visit her profiles:
 - [ORCID](https://orcid.org/0000-0002-6061-7825)
 - [Hparch Publication homepage](https://sites.gatech.edu/hparch/publication/)
 
+*** 
+
 #### **Prospective Students**
 
 - Current Georgia Tech Students: Interested in joining the HPArch research group: Please complete [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_MvqggxoRXA0j8C5Fh_G1Tlh5S-NUNE83MDdKWVZLM1pSUFZKVDBPUzRZN1NCSy4u). 
 - Prospective PhD Students: Applying to Georgia Tech and want to join HpArch: Read one of research group papers and email your comments with **"FUTUREGRAD"** in the subject line to show your interest
 
+***
 
 #### **Research Group**
 
