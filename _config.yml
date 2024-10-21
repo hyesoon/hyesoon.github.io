@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Hyesoon
-middle_name: 
+first_name: Professor 
+middle_name: Hyesoon
 last_name: Kim
 email: hyesoon@cc.gatech.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -107,7 +107,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  # You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
