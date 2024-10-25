@@ -76,9 +76,9 @@ For a comprehensive list of Dr. Kim's publications, please visit her profiles:
 
 #### **Prospective Students**
 
-- Current Georgia Tech Students who are interested in joining the HPArch research group
-    - Please complete [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_MvqggxoRXA0j8C5Fh_G1Tlh5S-NUNE83MDdKWVZLM1pSUFZKVDBPUzRZN1NCSy4u). 
-- Prospective PhD Students: Applying to Georgia Tech and want to join HpArch 
+- Current **Georgia Tech Students** who are interested in joining the HPArch research group
+    - Please complete [**this form**](https://forms.office.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_MvqggxoRXA0j8C5Fh_G1Tlh5S-NUNE83MDdKWVZLM1pSUFZKVDBPUzRZN1NCSy4u). 
+- **Prospective PhD Students**: Applying to Georgia Tech and want to join HpArch 
    - Read one of research group papers and email your comments with **"FUTUREGRAD"** in the subject line to show your interest
 
 ***
