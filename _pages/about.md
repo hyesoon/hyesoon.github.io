@@ -25,14 +25,14 @@ social: true  # includes social icons at the bottom of the page
 *** 
 
 #### **Biography** 
-Dr. Hyesoon Kim is a professor at the School of Computer Science,  College of Computing at Georgia Tech and leads the [HPArch research group](https://sites.gatech.edu/hparch/). She is co-director of the Center for Research into Novel Computing Hierarchies (CRNCH). She received her Ph.D. in Electrical Engineering and Computer Science from the University of Texas at Austin. Her research focuses on the intersection of computer architecture, compilers, and runtime systems, with a particular emphasis on heterogeneous architectures, such as GPUs and near-data processing.
+Dr. Hyesoon Kim is a professor at the School of Computer Science,  College of Computing at Georgia Tech and leads the [HPArch research group](https://sites.gatech.edu/hparch/). She is co-director of [the Center for Research into Novel Computing Hierarchies (CRNCH)](https://crnch.gatech.edu/). She received her Ph.D. in Electrical Engineering and Computer Science from the University of Texas at Austin. Her research focuses on the intersection of computer architecture, compilers, and runtime systems, with a particular emphasis on heterogeneous architectures, such as GPUs and near-data processing.
 
 
 <!-- Tools to help programming and improving performance and energy efficiency of heterogeneous architectures are the main research topcis.  -->
 *** 
 
 #### **Research Interests**
--  Computer Architecture
+- Computer Architecture
 - GPU Compilers and Runtime Systems
 - Modeling and Simulations
 - GPUs and Heterogeneous Architectures 
@@ -68,7 +68,7 @@ Dr. Hyesoon Kim is a professor at the School of Computer Science,  College of Co
 For a comprehensive list of Dr. Kim's publications, please visit her profiles:
 
 - [DBLP](https://dblp.org/pid/87/5743.html)
-- [Google Scholar](https://scholar.google.com)
+- [Google Scholar](https://scholar.google.com/citations?user=7OvZhQIAAAAJ&hl=ko)
 - [ORCID](https://orcid.org/0000-0002-6061-7825)
 - [Hparch Publication homepage](https://sites.gatech.edu/hparch/publication/)
 
