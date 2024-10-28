@@ -68,7 +68,7 @@ Dr. Hyesoon Kim is a professor at the School of Computer Science,  College of Co
 For a comprehensive list of Dr. Kim's publications, please visit her profiles:
 
 - [DBLP](https://dblp.org/pid/87/5743.html)
-- [Google Scholar](https://scholar.google.com/citations?user=7OvZhQIAAAAJ&hl=ko)
+- [Google Scholar](https://scholar.google.com/citations?user=7OvZhQIAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0002-6061-7825)
 - [Hparch Publication homepage](https://sites.gatech.edu/hparch/publication/)
 
